@@ -1,4 +1,4 @@
-#!/usr/
+#!/usr/bin/
 """Defines the HBnB console."""
 import cmd
 import re
